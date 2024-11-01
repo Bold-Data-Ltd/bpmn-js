@@ -7,6 +7,7 @@ All notable changes to [bpmn-js](https://github.com/bpmn-io/bpmn-js) are documen
 ___Note:__ Yet to be released changes appear here._
 
 * `FIX`: prevent crash during label adjustment ([#2239](https://github.com/bpmn-io/bpmn-js/issues/2239))
+* `FIX`: prevent covering multi selection with black box in `Viewer` ([#2135](https://github.com/bpmn-io/bpmn-js/issues/2135))
 * `DEPS`: update to `bpmn-moddle@9` ([#2114](https://github.com/bpmn-io/bpmn-js/pull/2114))
 
 ### Breaking Changes
