@@ -33,7 +33,7 @@
     "prepublishOnly": "run-s generate-types"
   },
   "engines": {
-    "node": "*"
+    "node": ">= 20"
   },
   "repository": {
     "type": "git",

@@ -11,7 +11,7 @@ ___Note:__ Yet to be released changes appear here._
 
 ### Breaking Changes
 
-* Require `Node >= 18` for building the project.
+* Require `Node >= 20`
 
 ## 17.11.1
 
